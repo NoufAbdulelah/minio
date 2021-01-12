@@ -1,0 +1,13 @@
+{
+  "messages": {
+  
+    "UPLOAD_SUCCESS":"تم رفع الملف بنجاح",
+    "UPLOAD_FAIL":"خطأ في عملية الرفع",
+    "DOWNLOAD_FAIL":"خطأ في عملية التنزيل",
+    "DOWNLOAD_SUCCESS":"تم تنزيل الملف بنجاح"
+
+
+
+
+  }
+}

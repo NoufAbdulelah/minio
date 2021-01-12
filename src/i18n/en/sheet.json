@@ -1,0 +1,8 @@
+{
+  "messages": {
+    "UPLOAD_SUCCESS":"Successfully uploaded",
+    "UPLOAD_FAIL":"Upload failed",
+    "DOWNLOAD_FAIL":"Download failed",
+    "DOWNLOAD_SUCCESS":"Successfully downloaded"
+  }
+}
